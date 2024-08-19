@@ -12,4 +12,12 @@
 
 ## Run
 
-`python ./run_kmsgtpgr.py`
+Run the following command to launch the model:
+
+```python
+python ./run_kmsgtpgr.py
+```
+
+## Dataset
+
+Knowledge Graph Links: triplet.dat contains links to Freebase and RS Datasets.
