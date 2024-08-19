@@ -1,0 +1,4 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+# lfs command
+dataset/ml-10m/ratings.dat filter=lfs diff=lfs merge=lfs -text
